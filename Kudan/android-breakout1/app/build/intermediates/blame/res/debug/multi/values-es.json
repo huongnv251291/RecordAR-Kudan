@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Kudan\\android-breakout1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+            "map": [
+                {
+                    "source": "E:\\Kudan\\android-breakout1\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "37,18,21,19,20,23,24,34,31,30,32,35,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1408,657,825,707,763,879,952,1311,1199,1153,1256,1364,1032",
+                        "endLines": "42,18,21,19,20,23,24,34,31,30,32,35,26",
+                        "endColumns": "19,48,46,54,60,71,72,51,55,44,47,36,62",
+                        "endOffsets": "1587,701,867,757,819,946,1020,1358,1250,1193,1299,1396,1090"
+                    },
+                    "to": {
+                        "startLines": "2,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,234,283,330,385,446,518,591,643,699,744,792,829",
+                        "endLines": "7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "endColumns": "19,48,46,54,60,71,72,51,55,44,47,36,62",
+                        "endOffsets": "229,278,325,380,441,513,586,638,694,739,787,824,887"
+                    }
+                }
+            ]
+        }
+    ]
+}

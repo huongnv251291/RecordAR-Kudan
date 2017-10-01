@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficulty_level_names">
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Hard</item>
+        <item>Absurd</item>
+    </string-array>
+    <string name="about_text">\nA simple \'breakout\' app, inspired by Little Brick Out.\n\nhttp://www.android.com/\n</string>
+    <string name="app_name">RecBreakout</string>
+    <string name="button_about">About</string>
+    <string name="button_newGame">New Game</string>
+    <string name="button_resumeGame">Resume Game</string>
+    <string name="checkbox_neverLoseBall">Never lose ball</string>
+    <string name="checkbox_soundEffectsEnabled">Sound effects</string>
+    <string name="difficulty">Difficulty: </string>
+    <string name="msg_game_over">Game Over</string>
+    <string name="msg_ready">Ready?</string>
+    <string name="msg_winner">Winner!</string>
+    <string name="ok">OK</string>
+    <string name="text_highScoreLabel">High Score:</string>
+</resources>
